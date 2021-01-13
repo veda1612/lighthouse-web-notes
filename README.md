@@ -105,4 +105,9 @@ Chai is an assertion library. It gives us assertion functions so that we no long
 
 
 
+## Intro to net:
+Net (net) is a module that is built into Node. It allows our Node apps to use TCP.
+
+
+
 
